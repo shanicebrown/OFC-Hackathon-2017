@@ -15,7 +15,7 @@ class MenuViewController: UIViewController {
         super.viewDidLoad()
        
 
-        leadingConstraint.constant = -167
+        leadingConstraint.constant = -168
         // Do any additional setup after loading the view.
     }
 
